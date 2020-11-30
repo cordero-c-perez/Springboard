@@ -7,3 +7,4 @@
 
 #### Additional Courses Completed
 4. Data Manipulation with Pandas [(view certificate)](https://www.datacamp.com/statement-of-accomplishment/course/f5dfbca2ada8e1bea678cc6befd5e549a8a84948)
+5. Data Types for Data Science in Python [(view certificate)](https://www.datacamp.com/statement-of-accomplishment/course/d3a4e477ddfd191d89e4b11cdfa946dc39f968b9)
