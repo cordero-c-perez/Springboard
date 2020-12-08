@@ -12,4 +12,5 @@
 7. pandas Foundations [(view certificate)](https://www.datacamp.com/statement-of-accomplishment/course/5ce7567423d1b21da124deb4972a131aafbcb11c)
 8. Introduction to SQL [(view certificate)](https://www.datacamp.com/statement-of-accomplishment/course/2e1a017992d002bb8f7edfe3988200d1307a7782)
 9. Manipulating DataFrames with pandas [(view certificate)](https://www.datacamp.com/statement-of-accomplishment/course/d666f5dd86b97b9eb60834e3ddca1520c20ebfe9)
+10. Merging DataFrames with pandas [(view certificate)](https://www.datacamp.com/statement-of-accomplishment/course/282a1bf1cf9338d288e65f474938d7031f255846)
 
