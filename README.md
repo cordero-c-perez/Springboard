@@ -14,5 +14,5 @@
 9. Manipulating DataFrames with pandas [(view certificate)](https://www.datacamp.com/statement-of-accomplishment/course/d666f5dd86b97b9eb60834e3ddca1520c20ebfe9)
 10. Merging DataFrames with pandas [(view certificate)](https://www.datacamp.com/statement-of-accomplishment/course/282a1bf1cf9338d288e65f474938d7031f255846)
 11. Exploratory Data Analysis in Python [(view certificate)](https://www.datacamp.com/statement-of-accomplishment/course/5e7734808b3ef1ebc0de1d70e5457990e61fc809)
-
-
+12. Introduction to Importing Data in Python [(view certificate)](https://www.datacamp.com/statement-of-accomplishment/course/bee3c4088953828dcfb686dfbd39191db11e4066)
+13. Intermediate Importing Data in Python [(view certificate)](https://www.datacamp.com/statement-of-accomplishment/course/ccd8ec2696cae8aabd188d6b723573d96edc20af)
