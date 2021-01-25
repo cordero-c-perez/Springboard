@@ -17,3 +17,4 @@
 12. Introduction to Importing Data in Python [(view certificate)](https://www.datacamp.com/statement-of-accomplishment/course/bee3c4088953828dcfb686dfbd39191db11e4066)
 13. Intermediate Importing Data in Python [(view certificate)](https://www.datacamp.com/statement-of-accomplishment/course/ccd8ec2696cae8aabd188d6b723573d96edc20af)
 14. Introduction to Git [(view certificate)](https://www.datacamp.com/statement-of-accomplishment/course/1b453688071f0dd4126ee4437329cd782cee887f)
+15. Cleaning Data in Python [(view certificate)](https://www.datacamp.com/statement-of-accomplishment/course/d420d1934e778681fd536a621c04173fee62aae6)
