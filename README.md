@@ -19,3 +19,4 @@
 14. Introduction to Git [(view certificate)](https://www.datacamp.com/statement-of-accomplishment/course/1b453688071f0dd4126ee4437329cd782cee887f)
 15. Cleaning Data in Python [(view certificate)](https://www.datacamp.com/statement-of-accomplishment/course/d420d1934e778681fd536a621c04173fee62aae6)
 16. Joining Data in SQL [(view certificate)](https://www.datacamp.com/statement-of-accomplishment/course/0a238f4ab4682dfad3314e68e5656c0649b4087b)
+17. Intermediate SQL [(view certificate)](https://www.datacamp.com/statement-of-accomplishment/course/1702824ece9fd824228488e58d75d0ca449854cb)
