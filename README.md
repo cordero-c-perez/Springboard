@@ -21,3 +21,4 @@
 16. Joining Data in SQL [(view certificate)](https://www.datacamp.com/statement-of-accomplishment/course/0a238f4ab4682dfad3314e68e5656c0649b4087b)
 17. Intermediate SQL [(view certificate)](https://www.datacamp.com/statement-of-accomplishment/course/1702824ece9fd824228488e58d75d0ca449854cb)
 18. Statistical Thinking in Python (1) [(view certificate)](https://www.datacamp.com/statement-of-accomplishment/course/a15da7afe22a0d653532b452f53c5336e64ef5bd)
+19. Supervised Learning with sci-kit learn [(view certificate)](https://www.datacamp.com/statement-of-accomplishment/course/a5ca55f408271c2d0d6cdd7c36523d614f1ebf53)
