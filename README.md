@@ -22,3 +22,4 @@
 17. Intermediate SQL [(view certificate)](https://www.datacamp.com/statement-of-accomplishment/course/1702824ece9fd824228488e58d75d0ca449854cb)
 18. Statistical Thinking in Python (1) [(view certificate)](https://www.datacamp.com/statement-of-accomplishment/course/a15da7afe22a0d653532b452f53c5336e64ef5bd)
 19. Supervised Learning with sci-kit learn [(view certificate)](https://www.datacamp.com/statement-of-accomplishment/course/a5ca55f408271c2d0d6cdd7c36523d614f1ebf53)
+20. Python Data Science Toolbox (Part 2) [(view certificate)](https://www.datacamp.com/statement-of-accomplishment/course/ddfba4d17e1e651fe539c9c9e999145a431158a1)
